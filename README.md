@@ -7,5 +7,5 @@ Serial peripheral interface (SPI) is one of the most widely used interfaces betw
 // Will also receive byte data one bit at a time on MISO.
 // Any data on input byte will be shipped out on MOSI.
 # Test bench code will..
-#   teste the protocol with a few senario
+test the protocol with a few senario
 # this is a tested and standard VHDL code + test bench for SPI (Serial Peripheral Interface) Master
