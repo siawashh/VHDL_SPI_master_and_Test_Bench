@@ -1,5 +1,5 @@
 # project-s_repository
-# this is a tested and standard code for SPI (Serial Peripheral Interface) Master
+# this is a tested and standard VHDL code for SPI (Serial Peripheral Interface) Master
 #  this code will..
 #  Creates master based on input configuration.
 #  Sends a byte one bit at a time on MOSI
